@@ -1,1 +1,3 @@
 created further file in feature6 branch on remote repo
+
+add this second line in feature6 branch on remote repo
